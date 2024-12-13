@@ -14,7 +14,7 @@ name                     : &name "Rui-Xi Wang"
 description              : &description "personal description"
 url                      : https://RuiXiWangTW.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RuiXiWangTW/RuiXiWangTW.github.io"
+repository               : "RuiXiWangTW/RuiXiWangTW.github;.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=etCO_BAAAAAJ&hl=zh-TW"
   impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -217,10 +217,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  award:
     output: true
     permalink: /:collection/:path/
 
@@ -264,14 +267,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -280,7 +283,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _award
+  - scope:
+      path: ""
+      type: award
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
