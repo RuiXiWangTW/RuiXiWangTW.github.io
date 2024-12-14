@@ -23,8 +23,6 @@ main:
   - title: "CV"
     url: "/files/My Resume.pdf"
   
-  - title: "Awards"
-    url: "/awards/"
     
   # - title: "Guide"
   #   url: /markdown/
