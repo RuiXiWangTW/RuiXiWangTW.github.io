@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth-year undergraduate student at MIT EECS and Mathematics. Originally from Taipei, Taiwan, I transfered from National Taiwan 
 University to MIT and moved to the US after my freshman year. I'm working with Professor [Connor Coley](https://coley.mit.edu/)
-and [Runzhong Wang](https://runzhong.wang/) on the development of Comninatorial and Machine Learning Mass Spectrum Prediction Model. I'm also 
+and [Runzhong Wang](https://runzhong.wang/) on the development of Combinatorial and Machine Learning Mass Spectrum Prediction Model. I'm also 
 working with professor [Ramesh Raskar](https://www.media.mit.edu/groups/camera-culture/overview/) and Abhishek Singh on the development of
 decentralized AI for healthcare. Previously, I worked with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and 
 [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking the performance of NIR absorption prediction models. My current research 
