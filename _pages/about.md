@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui-Xi(Ray) Wang 王睿熙"
+title: "Rui-Xi (Ray) Wang 王睿熙"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,10 +21,10 @@ discovery, and healthcare industry.
 B.S. Computer Science & Engineering and Mathematics, MIT 
 
 #### Sep 2021 - Jun 2022 
-B.Eng(Incomplete) Electrical Engineering, National Taiwan University 
+B.Eng (Incomplete) Electrical Engineering, National Taiwan University 
 
 ### Award
-International Chemistry Olympiad(ICHO) Gold Medalist, 2021
+International Chemistry Olympiad (ICHO) Gold Medalist, 2021
 
 ### Research Experience
 #### May 2024 - Present 
