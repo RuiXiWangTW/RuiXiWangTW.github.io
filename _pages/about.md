@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at MIT EECS and Mathematics. Originally from Taipei, Taiwan, I transfered from National Taiwan 
+I recently graduated from MIT with a BS degree in Computer Science and Mathematics. Originally from Taipei, Taiwan, I transfered from National Taiwan 
 University to MIT and moved to the US after my freshman year. I'm working with Professor [Connor Coley](https://coley.mit.edu/)
-and [Runzhong Wang](https://runzhong.wang/) on the development of Combinatorial and Machine Learning Mass Spectrum Prediction Model. I'm also 
-working with professor [Ramesh Raskar](https://www.media.mit.edu/groups/camera-culture/overview/) and Abhishek Singh on the development of
-decentralized AI for healthcare. Previously, I worked with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and 
+and [Runzhong Wang](https://runzhong.wang/) on the development of Combinatorial and Machine Learning Mass Spectrum Prediction Model.  Previously, I have worked with professor [Ramesh Raskar](https://www.media.mit.edu/groups/camera-culture/overview/) and Abhishek Singh on the development of
+decentralized AI for healthcare and Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and 
 [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking the performance of NIR absorption prediction models. My current research 
 interests are in AI4Science. Specifically, I'm interested in developing machine learning methods with applications in chemistry, drug 
 discovery, and healthcare industry. 
@@ -30,7 +29,7 @@ International Chemistry Olympiad (ICHO) Gold Medalist, 2021
 #### May 2024 - Present 
 Undergraduate Researcher, Coley's Lab, MIT 
 
-#### Nov 2024 - Present 
+#### Nov 2024 - Jun 2025 
 Undergraduate Researcher, Camera Culture Group, MIT Media Lab
 
 #### Jan 2023 - May 2024 
@@ -39,6 +38,10 @@ Undergraduate Researcher, Learning Matter Lab, MIT
 ### Word Experience
 #### Jun 2023 - Aug 2023 
 Research Intern, Delta Biosciences, Lithuania
+
+#### Jun 2023 - Present
+Software Engineering Intern, Microsoft, Redmond, WA
+
 
 
 

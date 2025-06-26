@@ -7,5 +7,3 @@ venue: "MIT"
 date: 2024-02-01
 location: "Cambridge, MA"
 ---
-
-Staff Office hours and lab sessions each week for 6.190(Intro to C and Assembly). Guide students through one-on-one debugging and provide feedback to instructors on assignments.
