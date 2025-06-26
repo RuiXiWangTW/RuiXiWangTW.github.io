@@ -36,11 +36,11 @@ Undergraduate Researcher, Camera Culture Group, MIT Media Lab
 Undergraduate Researcher, Learning Matter Lab, MIT 
 
 ### Word Experience
-#### Jun 2023 - Aug 2023 
-Research Intern, Delta Biosciences, Lithuania
-
 #### Jun 2025 - Present
 Software Engineering Intern, Microsoft, Redmond, WA
+
+#### Jun 2023 - Aug 2023 
+Research Intern, Delta Biosciences, Lithuania
 
 
 
