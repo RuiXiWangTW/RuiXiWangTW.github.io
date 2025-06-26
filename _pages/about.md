@@ -23,7 +23,7 @@ B.S. Computer Science & Engineering and Mathematics, MIT
 B.Eng (Incomplete) Electrical Engineering, National Taiwan University 
 
 ### Award
-International Chemistry Olympiad (ICHO) Gold Medalist, 2021
+International Chemistry Olympiad (IChO) Gold Medalist, 2021
 
 ### Research Experience
 #### May 2024 - Present 
