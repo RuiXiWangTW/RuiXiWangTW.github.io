@@ -39,7 +39,7 @@ Undergraduate Researcher, Learning Matter Lab, MIT
 #### Jun 2023 - Aug 2023 
 Research Intern, Delta Biosciences, Lithuania
 
-#### Jun 2023 - Present
+#### Jun 2025 - Present
 Software Engineering Intern, Microsoft, Redmond, WA
 
 
