@@ -16,7 +16,7 @@ interests are in AI4Science. Specifically, I'm interested in developing machine 
 discovery, and healthcare industry. 
 
 ### Education
-#### Sep 2022 - May 2025 (expected) 
+#### Sep 2022 - May 2025
 B.S. Computer Science & Engineering and Mathematics, MIT 
 
 #### Sep 2021 - Jun 2022 
