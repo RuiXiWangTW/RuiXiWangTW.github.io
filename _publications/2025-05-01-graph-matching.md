@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 date: 2025-05-01
 venue: International Conference on Machine Learning (ICML) 2025
-paperurl: 'https://openreview.net/pdf?id=nx8QhIlZh8'
+paperurl: 'https://arxiv.org/abs/2502.17874'
 ---
 Wang, R.\*; **Wang, R.-X.\***; Manjrekar, M.; Coley, C. \\
 (\* Equal Contribution)
