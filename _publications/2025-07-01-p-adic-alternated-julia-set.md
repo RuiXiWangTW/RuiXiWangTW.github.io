@@ -1,5 +1,5 @@
 ---
-title: "$p$-adic alternated Julia sets"
+title: "p-adic alternated Julia sets"
 collection: publications
 category: manuscripts
 date: 2025-07-02
