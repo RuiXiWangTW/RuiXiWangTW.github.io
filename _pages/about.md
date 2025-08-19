@@ -35,8 +35,8 @@ Undergraduate Researcher, Camera Culture Group, MIT Media Lab
 #### Jan 2023 - May 2024 
 Undergraduate Researcher, Learning Matter Lab, MIT 
 
-### Word Experience
-#### Jun 2025 - Present
+### Work Experience
+#### Jun 2025 - Aug 2025
 Software Engineering Intern, Microsoft, Redmond, WA
 
 #### Jun 2023 - Aug 2023 
