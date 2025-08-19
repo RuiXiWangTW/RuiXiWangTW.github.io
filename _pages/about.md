@@ -20,7 +20,7 @@ discovery, and healthcare industry.
 B.S. Computer Science & Engineering and Mathematics, MIT 
 
 #### Sep 2021 - Jun 2022 
-B.Eng (Incomplete) Electrical Engineering, National Taiwan University 
+B.Eng (transferred) Electrical Engineering, National Taiwan University 
 
 ### Award
 International Chemistry Olympiad (IChO) Gold Medalist, 2021
