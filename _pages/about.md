@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from MIT with a BS degree in Computer Science and Mathematics. Originally from Taipei, Taiwan, I transfered from National Taiwan 
-University to MIT and moved to the US after my freshman year. I'm working with Professor [Connor Coley](https://coley.mit.edu/)
-and [Runzhong Wang](https://runzhong.wang/) on the development of Combinatorial and Machine Learning Mass Spectrum Prediction Model.  Previously, I have worked with professor [Ramesh Raskar](https://www.media.mit.edu/groups/camera-culture/overview/) and Abhishek Singh on the development of
-decentralized AI for healthcare and Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and 
+I recently graduated from MIT with a Bachelor’s degree in Computer Science and Mathematics. Originally from Taipei, Taiwan, I transferred from National Taiwan University to MIT and moved to the United States after my freshman year. I am currently working with Professor [Connor Coley](https://coley.mit.edu/)
+and [Runzhong Wang](https://runzhong.wang/) on developing combinatorial and machine learning–based mass spectrum prediction models. Previously, I worked with professor [Ramesh Raskar](https://www.media.mit.edu/groups/camera-culture/overview/) and Abhishek Singh on decentralized AI for healthcare, and with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and 
 [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking the performance of NIR absorption prediction models. My current research 
-interests are in AI4Science. Specifically, I'm interested in developing machine learning methods with applications in chemistry, drug 
-discovery, and healthcare industry. 
+interests are in AI4Science. My current research interests lie in AI for Science, particularly in developing machine learning methods with applications in chemistry, drug discovery, and healthcare.
 
 ### Education
 #### Sep 2022 - May 2025
