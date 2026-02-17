@@ -3,8 +3,9 @@ title: "Neural Graph Matching Improves Retrieval Augmented Generation in Molecul
 collection: publications
 category: conferences
 date: 2025-05-01
-venue: International Conference on Machine Learning (ICML)
+venue: ICML 2025
 paperurl: 'https://arxiv.org/abs/2502.17874'
 ---
-Wang, R.\*; **Wang, R.-X.\***; Manjrekar, M.; Coley, C. \\
-(\* Equal Contribution)
+Runzhong Wang, **Rui-Xi Wang\***, Mrunali Manjrekar, Connor W. Coley
+(\* denotes equal contribution)
+
