@@ -9,7 +9,7 @@ redirect_from:
 I am a Software Engineer at [Need Inc.](https://www.need.ai), a startup focused on developing AI agentic system for cancer protection. I graduated from MIT in 2025 with a B.S. in Computer Science and Mathematics. My research experience lies at the intersection of machine learning and the natural sciences. I have worked with Professor [Connor Coley](https://coley.mit.edu/) and [Runzhong Wang](https://runzhong.wang/) on developing combinatorial and machine learning approaches for mass spectrum prediction. During my national service in Taiwan, I continued my research remotely, collaborating with Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and [Weimin Wu](https://weiminwu.academicwebsite.com/) on single-cell foundation models. Previously, I also worked with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking models for NIR absorption prediction. Broadly, my interests are in AI for Science, with a particular focus on building machine learning methods for applications in chemistry, drug discovery, and healthcare.
 ### Work Experience
 #### April 2026 - present
-Software Engineering Intern, Need Inc., Seoul, Korea
+Software Engineer, Need Inc., Seoul, Korea
 
 #### Jun 2025 - Aug 2025
 Software Engineering Intern, Microsoft, Redmond, WA
