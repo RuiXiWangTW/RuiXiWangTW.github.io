@@ -6,10 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Software Engineer at [Need Inc.](https://www.need.ai), a startup focused on developing AI agentic system for cancer protection. I graduated from MIT in 2025 with a B.S. in Computer Science and Mathematics. My research experience lies at the intersection of machine learning and the natural sciences. I have worked with Professor[Connor Coley](https://coley.mit.edu/) and [Runzhong Wang](https://runzhong.wang/) on developing combinatorial and machine learning approaches for mass spectrum prediction. During my national service in Taiwan, I continued my research remotely, collaborating with Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and [Weimin Wu](https://weiminwu.academicwebsite.com/) on single-cell foundation models. Previously, I also worked with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking models for NIR absorption prediction. Broadly, my interests are in AI for Science, with a particular focus on building machine learning methods for applications in chemistry, drug discovery, and healthcare.
+### Work Experience
+#### April 2026 - present
+Software Engineering Intern, Need Inc., Seoul, Korea
 
-I recently graduated from MIT with a BS degree in Computer Science and Mathematics. Originally from Taipei, Taiwan, I transfered from National Taiwan 
-University to MIT and moved to the US after my freshman year. I'm working with Professor [Connor Coley](https://coley.mit.edu/)
-and [Runzhong Wang](https://runzhong.wang/) on the development of combinatorial and machine learning mass spectrum prediction Model. During my gap year in Taiwan for the military service, I work remotely with Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and [Weimin Wu](https://weiminwu.academicwebsite.com/) on the development of single cell foundation model. Previously, I have worked with Professor [Rafael Gomez Bombarelli](https://gomezbombarelli.mit.edu/) and [Kevin Greenman](https://www.kevinpgreenman.com/) on benchmarking the performance of NIR absorption prediction models. My current research interests are in AI4Science. Specifically, I'm interested in developing machine learning methods with applications in chemistry, drug discovery, and healthcare industry. 
+#### Jun 2025 - Aug 2025
+Software Engineering Intern, Microsoft, Redmond, WA
+
+#### Jun 2023 - Aug 2023 
+Research Intern, Delta Biosciences, Vilnius, Lithuania
 
 ### Education
 #### Sep 2022 - May 2025
@@ -22,21 +28,14 @@ B.Eng (transferred) Electrical Engineering, National Taiwan University
 International Chemistry Olympiad (IChO) Gold Medalist, 2021
 
 ### Research Experience
-#### Sep 2025 - Present 
+#### Sep 2025 - March 2026 
 Research Intern, MAGICS LAB, Northwestern University
 
-#### May 2024 - Present 
+#### May 2024 - March 2026 
 Undergraduate Researcher, Coley's Lab, MIT 
 
 #### Jan 2023 - May 2024 
 Undergraduate Researcher, Learning Matter Lab, MIT 
-
-### Work Experience
-#### Jun 2025 - Aug 2025
-Software Engineering Intern, Microsoft, Redmond, WA
-
-#### Jun 2023 - Aug 2023 
-Research Intern, Delta Biosciences, Lithuania
 
 ### Other Experience
 #### Oct 2025 - Feb 2026
