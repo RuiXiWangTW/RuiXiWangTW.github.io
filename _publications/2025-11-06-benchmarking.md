@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking predictions of near-infrared absorption with physics-based and machine learning methods"
 collection: publications
-category: conferences
+category: conference_papers
 # permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-11-06
